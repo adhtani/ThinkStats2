@@ -6,7 +6,7 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 """
 
 from __future__ import print_function, division
-
+import nsfg
 """This file contains class definitions for:
 
 Hist: represents a histogram (map from values to integer frequencies).
